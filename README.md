@@ -85,6 +85,7 @@ Check our currently open issues for an idea on what to work on!
 
 * [AppleBetas](https://applebetas.co) - Core Developer
 * [nullpixel](https://nullpixel.uk) - Core Developer
+* [Eric Rabil](https://twitter.com/ericrabil) - Core Developer
 
 Also see the list of [contributors](https://www.github.com/dynastic/place/contributors) who participated in this project and helped to make it as great as it is!
 
